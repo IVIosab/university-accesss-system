@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="University_Access_System"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="University_Access_System">
+				<Option output="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/University_Access_System.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 University_Access_System"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="University_Access_System/fast">
+				<Option output="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/University_Access_System.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 University_Access_System/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/main.cpp">
+			<Option target="University_Access_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

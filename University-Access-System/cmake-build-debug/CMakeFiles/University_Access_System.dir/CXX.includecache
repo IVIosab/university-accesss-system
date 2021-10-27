@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.cpp
+Admin.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.cpp
+Cabinet.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.cpp
+ClassRoom.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.cpp
+ConferenceRoom.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.cpp
+Director.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.cpp
+DirectorCabinet.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.cpp
+Guest.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.cpp
+LabEmployee.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.cpp
+LectureHall.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.h
+bits/stdc++.h
+-
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.cpp
+Professor.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.cpp
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.cpp
+Student.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.h
+bits/stdc++.h
+-
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.cpp
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+bits/stdc++.h
+-
+
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/main.cpp
+bits/stdc++.h
+-
+Student.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Student.h
+Professor.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Professor.h
+LabEmployee.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LabEmployee.h
+Director.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Director.h
+Admin.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Admin.h
+Guest.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Guest.h
+Usertype.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/UserType.h
+RoomType.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/RoomType.h
+LectureHall.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/LectureHall.h
+ClassRoom.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ClassRoom.h
+Cabinet.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/Cabinet.h
+DirectorCabinet.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/DirectorCabinet.h
+ConferenceRoom.h
+C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/ConferenceRoom.h
+
