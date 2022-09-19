@@ -1,3 +1,0 @@
-C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/CMakeFiles/University_Access_System.dir
-C:/Users/Mosab Mohamed/CLionProjects/University-Access-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
